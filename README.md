@@ -22,7 +22,7 @@ Web Hosting & Services Expense -124.95
 Equipment Expense -9788.52
 ```
 
-The edited Compant name is as follows:
+The edited Company name is as follows:
 
 ```
 SHAW CABLESYSTEMS CALGARY AB
