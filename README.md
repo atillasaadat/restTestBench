@@ -3,6 +3,8 @@ restTest for Bench.co @ http://resttest.bench.co/
 
 To run the project, add the included .jar as a required library for the java project
 
+Completes the totalBalance and Additional Features 1 & 3
+
 Output from the bench.java
 ```
 18377.16
