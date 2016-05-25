@@ -123,7 +123,7 @@ public class bench {
     String jsonLink = "http://resttest.bench.co/transactions/";
     ArrayList<JSONObject> pages = getPages(jsonLink);
     
-    System.out.println("The total balance is : $"findTotalBalance(pages) + "\n");
+    System.out.println("The total balance is : $" + findTotalBalance(pages) + "\n");
    	HashMap<String, Double> catExpense = categoryExpense(pages);
    	
    	Iterator iterator = catExpense.keySet().iterator();
