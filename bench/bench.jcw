@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>bench</label>
+	</settings>
+	<users>
+		<user>
+			<path>bench.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>bench.jcp</path>
+		</project>
+	</projects>
+</workspace>
