@@ -7,7 +7,7 @@ Completes the totalBalance and Additional Features 1 & 3
 
 Output from the bench.java
 ```
-18377.16
+The total balance is: $18377.16
 
 Insurance Expense -145.62
 Office Expense -701.67
